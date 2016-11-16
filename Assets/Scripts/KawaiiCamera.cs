@@ -10,7 +10,7 @@ public class KawaiiCamera : MonoBehaviour
 
     void Start()
     {
-        neck = GameObject.Find("Neck");
+        neck = GameObject.Find("ウイーアブー");
     }
 
     void LateUpdate()
